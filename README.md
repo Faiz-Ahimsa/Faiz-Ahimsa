@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faiz-Ahimsa
+- 👋 Hi, I’m Faiz Satria Ahimsa
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning in Islamic State University of Sunan Kalijaga
 - 💞️ I’m looking to collaborate on discussion forum
